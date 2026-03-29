@@ -1,0 +1,1001 @@
+patient_id,age,gender,chronic_condition
+1,56,M,Heart Disease
+2,69,M,Diabetes
+3,46,F,Heart Disease
+4,32,M,Diabetes
+5,60,M,Heart Disease
+6,25,F,None
+7,78,M,None
+8,38,M,Hypertension
+9,56,M,Heart Disease
+10,75,M,Heart Disease
+11,36,M,Diabetes
+12,40,F,Hypertension
+13,28,M,Heart Disease
+14,28,M,Hypertension
+15,41,M,None
+16,70,M,Heart Disease
+17,53,M,Heart Disease
+18,57,F,Hypertension
+19,41,M,Heart Disease
+20,20,F,Hypertension
+21,39,F,Heart Disease
+22,70,M,Diabetes
+23,19,M,Hypertension
+24,41,M,Heart Disease
+25,61,M,None
+26,47,F,Heart Disease
+27,55,M,None
+28,19,M,None
+29,77,M,Diabetes
+30,38,M,Hypertension
+31,50,M,Heart Disease
+32,29,M,Diabetes
+33,75,F,Heart Disease
+34,39,F,None
+35,78,M,Hypertension
+36,61,M,Heart Disease
+37,42,M,Heart Disease
+38,66,F,None
+39,44,M,Heart Disease
+40,76,F,Heart Disease
+41,59,M,None
+42,45,M,Diabetes
+43,77,M,None
+44,33,M,Diabetes
+45,32,F,Hypertension
+46,79,F,Diabetes
+47,79,M,Diabetes
+48,64,M,Hypertension
+49,79,F,Diabetes
+50,68,F,None
+51,61,F,Diabetes
+52,72,F,Hypertension
+53,69,M,None
+54,74,F,Hypertension
+55,20,M,Hypertension
+56,54,F,Heart Disease
+57,68,F,Heart Disease
+58,24,F,Hypertension
+59,38,F,Hypertension
+60,26,F,Hypertension
+61,56,M,Heart Disease
+62,35,M,Heart Disease
+63,21,F,Diabetes
+64,42,F,Diabetes
+65,77,M,Hypertension
+66,31,F,None
+67,67,F,None
+68,75,M,Heart Disease
+69,26,F,Heart Disease
+70,43,F,Heart Disease
+71,70,M,Hypertension
+72,19,M,None
+73,37,M,Diabetes
+74,45,F,Hypertension
+75,64,M,Diabetes
+76,77,M,Diabetes
+77,24,M,Hypertension
+78,61,M,Diabetes
+79,78,M,None
+80,25,M,Diabetes
+81,64,F,None
+82,52,F,None
+83,31,M,None
+84,34,M,Heart Disease
+85,53,M,Diabetes
+86,67,F,Hypertension
+87,57,F,Hypertension
+88,21,F,Diabetes
+89,19,F,Heart Disease
+90,79,F,Heart Disease
+91,23,F,None
+92,71,F,Diabetes
+93,59,F,Diabetes
+94,21,F,Hypertension
+95,71,M,Diabetes
+96,46,M,Heart Disease
+97,35,M,Diabetes
+98,43,M,Hypertension
+99,61,F,None
+100,51,F,Hypertension
+101,27,M,Hypertension
+102,79,F,None
+103,53,M,Hypertension
+104,31,F,Hypertension
+105,48,M,Diabetes
+106,65,F,Diabetes
+107,32,F,None
+108,25,M,Diabetes
+109,31,F,Diabetes
+110,40,M,Hypertension
+111,77,M,Heart Disease
+112,74,M,Diabetes
+113,79,M,Heart Disease
+114,57,F,Diabetes
+115,38,F,Diabetes
+116,33,F,None
+117,62,M,None
+118,35,F,None
+119,64,M,Heart Disease
+120,70,F,Hypertension
+121,41,F,Diabetes
+122,43,F,Diabetes
+123,42,M,Diabetes
+124,77,F,Heart Disease
+125,77,F,None
+126,77,M,Hypertension
+127,62,F,Heart Disease
+128,58,M,None
+129,46,F,Heart Disease
+130,32,M,Hypertension
+131,62,M,None
+132,18,F,Heart Disease
+133,42,M,Hypertension
+134,24,M,Diabetes
+135,26,M,Hypertension
+136,41,M,Diabetes
+137,18,M,Heart Disease
+138,61,M,None
+139,25,F,None
+140,41,M,Heart Disease
+141,28,M,None
+142,68,F,None
+143,34,F,Diabetes
+144,25,F,Heart Disease
+145,52,F,Hypertension
+146,52,F,Diabetes
+147,50,F,Heart Disease
+148,76,F,Diabetes
+149,22,M,Hypertension
+150,59,M,Hypertension
+151,56,F,Heart Disease
+152,75,M,Hypertension
+153,58,M,Diabetes
+154,45,M,Hypertension
+155,24,F,Diabetes
+156,26,F,Diabetes
+157,25,M,Hypertension
+158,29,F,Heart Disease
+159,51,M,None
+160,50,M,Hypertension
+161,65,M,Diabetes
+162,72,M,Diabetes
+163,40,F,Hypertension
+164,79,F,Heart Disease
+165,41,F,Heart Disease
+166,54,M,Diabetes
+167,52,F,Diabetes
+168,61,M,Heart Disease
+169,57,F,None
+170,39,M,Hypertension
+171,44,M,Diabetes
+172,52,M,Diabetes
+173,18,F,Heart Disease
+174,52,F,Hypertension
+175,54,F,Heart Disease
+176,64,F,Hypertension
+177,31,M,Hypertension
+178,20,F,Hypertension
+179,18,F,Diabetes
+180,22,M,None
+181,43,M,Heart Disease
+182,72,M,None
+183,31,F,Heart Disease
+184,56,M,Hypertension
+185,44,M,Diabetes
+186,26,M,None
+187,32,F,Diabetes
+188,32,M,Heart Disease
+189,43,F,Diabetes
+190,59,F,Diabetes
+191,77,M,None
+192,30,M,Hypertension
+193,68,F,Diabetes
+194,49,M,Hypertension
+195,56,M,Heart Disease
+196,66,F,Diabetes
+197,69,F,None
+198,78,M,Heart Disease
+199,49,F,Heart Disease
+200,21,M,None
+201,47,M,Diabetes
+202,54,M,Diabetes
+203,40,F,Heart Disease
+204,56,M,Diabetes
+205,62,M,Hypertension
+206,32,M,None
+207,60,F,Hypertension
+208,46,F,Diabetes
+209,53,F,Heart Disease
+210,30,F,None
+211,49,F,Diabetes
+212,24,M,Diabetes
+213,76,F,Heart Disease
+214,68,F,Heart Disease
+215,39,F,Hypertension
+216,45,M,None
+217,19,F,None
+218,59,F,Heart Disease
+219,62,M,Hypertension
+220,79,F,None
+221,74,M,Heart Disease
+222,70,M,Diabetes
+223,23,M,None
+224,45,M,Hypertension
+225,45,M,Hypertension
+226,61,F,Hypertension
+227,61,M,Diabetes
+228,37,M,None
+229,47,F,None
+230,79,M,Diabetes
+231,28,F,None
+232,75,F,Diabetes
+233,72,F,Diabetes
+234,45,M,Diabetes
+235,42,M,Hypertension
+236,56,M,None
+237,79,F,Diabetes
+238,50,M,None
+239,18,M,Hypertension
+240,74,M,Diabetes
+241,44,F,Heart Disease
+242,79,F,Hypertension
+243,74,M,Heart Disease
+244,69,M,None
+245,30,M,None
+246,58,M,Hypertension
+247,20,F,None
+248,56,F,Heart Disease
+249,23,F,Diabetes
+250,25,F,Diabetes
+251,44,M,Diabetes
+252,26,M,Hypertension
+253,79,M,None
+254,54,F,Heart Disease
+255,50,M,None
+256,68,F,None
+257,59,F,None
+258,61,M,Diabetes
+259,41,M,Heart Disease
+260,32,M,Heart Disease
+261,76,F,None
+262,71,M,Diabetes
+263,49,F,Diabetes
+264,49,M,Heart Disease
+265,41,F,Diabetes
+266,58,F,Diabetes
+267,69,M,Diabetes
+268,66,F,Hypertension
+269,79,F,None
+270,66,M,Heart Disease
+271,75,F,Heart Disease
+272,69,M,Hypertension
+273,29,F,None
+274,79,M,Heart Disease
+275,56,M,Diabetes
+276,19,F,Heart Disease
+277,20,F,Diabetes
+278,66,F,Hypertension
+279,54,F,Diabetes
+280,66,F,Heart Disease
+281,73,M,Heart Disease
+282,34,F,Heart Disease
+283,76,M,Hypertension
+284,66,M,Hypertension
+285,19,F,None
+286,19,M,Heart Disease
+287,45,M,Diabetes
+288,71,M,Hypertension
+289,40,M,Heart Disease
+290,54,F,Heart Disease
+291,49,M,Hypertension
+292,50,F,None
+293,18,F,Hypertension
+294,36,M,Hypertension
+295,79,F,Diabetes
+296,19,F,Diabetes
+297,70,F,None
+298,61,M,Heart Disease
+299,43,F,Hypertension
+300,49,F,None
+301,23,F,Diabetes
+302,49,M,Hypertension
+303,72,F,Heart Disease
+304,21,M,Diabetes
+305,72,M,Diabetes
+306,28,M,Diabetes
+307,73,M,None
+308,76,M,Heart Disease
+309,34,M,Hypertension
+310,55,F,None
+311,41,M,None
+312,22,F,None
+313,69,F,Diabetes
+314,51,M,Heart Disease
+315,23,F,None
+316,39,F,Hypertension
+317,28,F,Heart Disease
+318,65,F,Hypertension
+319,33,M,Heart Disease
+320,50,F,Hypertension
+321,26,M,Diabetes
+322,77,F,None
+323,76,F,Hypertension
+324,23,M,Heart Disease
+325,33,F,None
+326,46,F,None
+327,20,F,Heart Disease
+328,37,M,Hypertension
+329,77,F,Diabetes
+330,76,M,Diabetes
+331,53,F,Hypertension
+332,36,M,None
+333,43,M,None
+334,20,F,None
+335,36,F,None
+336,37,M,Hypertension
+337,49,M,None
+338,24,F,Heart Disease
+339,69,M,None
+340,58,F,Diabetes
+341,50,F,None
+342,57,F,Hypertension
+343,56,F,Diabetes
+344,35,M,Hypertension
+345,57,F,Hypertension
+346,18,M,Diabetes
+347,28,F,Hypertension
+348,45,M,Hypertension
+349,74,F,None
+350,42,M,Heart Disease
+351,67,M,Hypertension
+352,40,F,Hypertension
+353,48,F,Hypertension
+354,47,F,None
+355,59,F,Heart Disease
+356,52,M,Diabetes
+357,24,F,None
+358,77,M,None
+359,33,M,Heart Disease
+360,43,F,Heart Disease
+361,65,M,None
+362,74,M,Diabetes
+363,69,M,None
+364,77,M,Heart Disease
+365,66,F,Diabetes
+366,19,F,Heart Disease
+367,18,F,Diabetes
+368,65,F,Hypertension
+369,79,M,Heart Disease
+370,29,M,Heart Disease
+371,22,F,None
+372,54,F,Heart Disease
+373,49,F,Heart Disease
+374,76,M,Hypertension
+375,72,F,Heart Disease
+376,26,F,Hypertension
+377,58,F,Hypertension
+378,52,M,Hypertension
+379,36,M,Hypertension
+380,65,M,Diabetes
+381,33,M,None
+382,20,M,Diabetes
+383,37,M,Heart Disease
+384,41,M,Diabetes
+385,71,M,Diabetes
+386,73,F,Heart Disease
+387,50,F,Heart Disease
+388,41,M,Heart Disease
+389,69,M,Diabetes
+390,28,F,Diabetes
+391,66,M,Heart Disease
+392,25,M,None
+393,53,M,None
+394,55,F,Hypertension
+395,57,F,Heart Disease
+396,37,F,Hypertension
+397,79,F,None
+398,52,F,Hypertension
+399,65,M,Heart Disease
+400,79,F,Heart Disease
+401,42,M,Heart Disease
+402,52,M,Diabetes
+403,42,F,Hypertension
+404,46,F,None
+405,35,M,None
+406,63,M,None
+407,35,M,Diabetes
+408,19,F,Diabetes
+409,71,F,Heart Disease
+410,52,F,None
+411,33,F,Diabetes
+412,78,F,Heart Disease
+413,58,M,None
+414,53,F,Hypertension
+415,50,M,Heart Disease
+416,21,M,Diabetes
+417,50,M,Diabetes
+418,31,F,Heart Disease
+419,38,F,Heart Disease
+420,65,F,Diabetes
+421,37,M,Hypertension
+422,73,M,None
+423,25,M,Hypertension
+424,24,M,Heart Disease
+425,20,M,Hypertension
+426,34,M,Diabetes
+427,50,F,Heart Disease
+428,65,F,None
+429,29,F,Diabetes
+430,76,F,Diabetes
+431,68,M,None
+432,39,M,None
+433,72,F,Hypertension
+434,39,M,Heart Disease
+435,63,F,None
+436,47,F,None
+437,55,F,Heart Disease
+438,55,M,None
+439,62,F,None
+440,68,F,Hypertension
+441,71,F,Diabetes
+442,25,M,Diabetes
+443,44,M,Diabetes
+444,44,F,Diabetes
+445,51,M,None
+446,38,M,Heart Disease
+447,47,M,Heart Disease
+448,50,M,Hypertension
+449,45,M,Hypertension
+450,64,M,None
+451,50,M,Heart Disease
+452,22,M,Heart Disease
+453,77,M,Diabetes
+454,78,M,None
+455,65,F,None
+456,36,F,Diabetes
+457,21,M,None
+458,52,F,None
+459,66,F,Hypertension
+460,34,M,Heart Disease
+461,61,M,None
+462,45,M,Hypertension
+463,47,F,Heart Disease
+464,46,F,Diabetes
+465,63,M,Hypertension
+466,70,M,Hypertension
+467,23,M,Heart Disease
+468,52,F,Diabetes
+469,77,F,Hypertension
+470,58,F,None
+471,54,F,None
+472,41,M,None
+473,46,M,Diabetes
+474,66,M,Hypertension
+475,63,M,None
+476,70,F,Diabetes
+477,48,F,None
+478,52,M,Heart Disease
+479,77,M,Hypertension
+480,50,F,Hypertension
+481,69,M,Diabetes
+482,78,F,Diabetes
+483,38,M,Hypertension
+484,49,M,None
+485,40,M,None
+486,50,M,Heart Disease
+487,20,M,None
+488,35,M,Diabetes
+489,42,M,Diabetes
+490,59,F,None
+491,48,F,Diabetes
+492,71,F,Hypertension
+493,75,F,Hypertension
+494,20,F,None
+495,57,M,Hypertension
+496,63,M,Hypertension
+497,41,F,Heart Disease
+498,67,M,Heart Disease
+499,49,F,Hypertension
+500,64,F,None
+501,39,M,Heart Disease
+502,40,M,Diabetes
+503,19,M,Diabetes
+504,44,F,Diabetes
+505,59,M,None
+506,19,F,Hypertension
+507,43,F,Diabetes
+508,34,F,None
+509,57,M,Heart Disease
+510,50,M,Hypertension
+511,26,F,Heart Disease
+512,60,M,None
+513,71,M,Diabetes
+514,65,M,Diabetes
+515,56,F,None
+516,46,F,Diabetes
+517,59,M,Hypertension
+518,72,F,None
+519,43,M,Heart Disease
+520,52,M,None
+521,67,M,Hypertension
+522,42,M,Hypertension
+523,41,F,None
+524,30,F,None
+525,77,F,Diabetes
+526,75,M,Hypertension
+527,24,M,None
+528,74,M,None
+529,53,F,Hypertension
+530,62,M,None
+531,37,F,Diabetes
+532,18,F,Hypertension
+533,25,F,Diabetes
+534,63,F,Diabetes
+535,33,F,Diabetes
+536,31,F,Diabetes
+537,29,M,Hypertension
+538,68,M,Diabetes
+539,40,F,Diabetes
+540,32,F,None
+541,45,M,Hypertension
+542,51,F,Hypertension
+543,19,F,Heart Disease
+544,49,M,Hypertension
+545,40,F,Hypertension
+546,39,F,Heart Disease
+547,68,F,Hypertension
+548,42,M,Hypertension
+549,75,M,Hypertension
+550,79,M,Hypertension
+551,78,F,Heart Disease
+552,39,F,Hypertension
+553,75,M,Hypertension
+554,75,F,Heart Disease
+555,39,F,None
+556,66,F,Diabetes
+557,69,F,None
+558,59,F,Heart Disease
+559,23,M,Diabetes
+560,32,F,Heart Disease
+561,71,M,Heart Disease
+562,60,F,Hypertension
+563,77,M,Diabetes
+564,54,F,Hypertension
+565,50,M,Diabetes
+566,25,F,Heart Disease
+567,70,M,Heart Disease
+568,77,F,None
+569,61,M,Diabetes
+570,61,F,Hypertension
+571,22,M,None
+572,56,M,None
+573,21,F,None
+574,23,F,Hypertension
+575,62,M,None
+576,49,F,Hypertension
+577,69,M,None
+578,47,M,Hypertension
+579,64,M,Heart Disease
+580,52,F,Heart Disease
+581,72,M,Heart Disease
+582,57,M,Heart Disease
+583,69,F,Heart Disease
+584,33,F,None
+585,30,F,None
+586,67,F,None
+587,77,M,Hypertension
+588,59,M,Hypertension
+589,47,M,Hypertension
+590,36,M,Hypertension
+591,34,F,Heart Disease
+592,73,M,Heart Disease
+593,36,M,Heart Disease
+594,45,F,Diabetes
+595,75,M,None
+596,72,M,Hypertension
+597,43,M,Hypertension
+598,54,M,Heart Disease
+599,43,M,Hypertension
+600,70,M,Hypertension
+601,79,F,None
+602,40,F,Heart Disease
+603,26,M,None
+604,29,M,Diabetes
+605,70,F,Diabetes
+606,18,M,Diabetes
+607,75,M,Heart Disease
+608,75,M,Hypertension
+609,18,F,Heart Disease
+610,64,M,Heart Disease
+611,51,F,Hypertension
+612,49,M,None
+613,79,F,Diabetes
+614,71,F,None
+615,65,M,Diabetes
+616,42,F,Heart Disease
+617,57,M,Diabetes
+618,62,F,Heart Disease
+619,70,M,None
+620,18,M,Heart Disease
+621,33,F,None
+622,78,M,Hypertension
+623,56,M,Hypertension
+624,22,F,Hypertension
+625,39,M,Heart Disease
+626,46,M,Hypertension
+627,72,F,Diabetes
+628,20,F,None
+629,29,M,None
+630,43,M,Diabetes
+631,33,F,Heart Disease
+632,68,F,Heart Disease
+633,54,M,None
+634,39,F,Hypertension
+635,74,M,Heart Disease
+636,46,M,Heart Disease
+637,31,M,Diabetes
+638,45,M,Diabetes
+639,22,M,Hypertension
+640,64,F,Heart Disease
+641,66,F,Heart Disease
+642,47,F,Diabetes
+643,63,F,Heart Disease
+644,79,M,None
+645,69,M,Diabetes
+646,22,M,Hypertension
+647,29,M,Diabetes
+648,33,F,Heart Disease
+649,43,M,Hypertension
+650,43,M,Diabetes
+651,65,F,None
+652,38,F,None
+653,56,F,Diabetes
+654,53,F,None
+655,50,M,None
+656,79,M,None
+657,47,F,Hypertension
+658,54,M,None
+659,40,M,None
+660,75,M,None
+661,27,F,Hypertension
+662,71,M,Diabetes
+663,22,F,Heart Disease
+664,53,M,None
+665,51,M,Diabetes
+666,69,M,None
+667,48,F,Hypertension
+668,27,M,Diabetes
+669,75,F,Hypertension
+670,36,F,None
+671,75,F,None
+672,49,M,Hypertension
+673,18,M,Heart Disease
+674,73,M,Hypertension
+675,22,M,None
+676,62,F,Hypertension
+677,21,F,Heart Disease
+678,33,F,Hypertension
+679,41,M,Heart Disease
+680,33,F,Heart Disease
+681,72,M,Hypertension
+682,19,F,Hypertension
+683,66,M,Diabetes
+684,45,M,None
+685,49,F,Heart Disease
+686,44,F,Diabetes
+687,37,F,Hypertension
+688,41,F,None
+689,29,M,Diabetes
+690,67,F,Heart Disease
+691,52,F,Diabetes
+692,77,F,Heart Disease
+693,50,M,Hypertension
+694,50,M,None
+695,78,F,None
+696,68,M,None
+697,60,F,Hypertension
+698,54,M,Heart Disease
+699,29,M,Hypertension
+700,20,M,None
+701,18,M,Hypertension
+702,50,F,Hypertension
+703,57,F,Hypertension
+704,27,F,Heart Disease
+705,60,M,Diabetes
+706,61,F,Diabetes
+707,46,F,Hypertension
+708,30,F,Diabetes
+709,29,M,Diabetes
+710,48,M,Hypertension
+711,63,M,Hypertension
+712,19,F,None
+713,78,F,Diabetes
+714,68,F,Heart Disease
+715,67,M,Hypertension
+716,52,M,None
+717,40,F,Heart Disease
+718,34,M,Diabetes
+719,43,M,None
+720,25,M,Hypertension
+721,46,M,Heart Disease
+722,43,F,Hypertension
+723,27,M,Diabetes
+724,43,M,Heart Disease
+725,79,M,Diabetes
+726,51,M,Diabetes
+727,68,F,None
+728,58,F,Hypertension
+729,24,M,Heart Disease
+730,21,M,Diabetes
+731,75,M,Diabetes
+732,70,M,Heart Disease
+733,67,M,Diabetes
+734,62,M,None
+735,28,F,None
+736,46,M,None
+737,73,F,None
+738,53,F,Diabetes
+739,42,M,Heart Disease
+740,38,F,Heart Disease
+741,78,F,Heart Disease
+742,74,F,Heart Disease
+743,53,F,Hypertension
+744,27,F,Heart Disease
+745,54,F,Hypertension
+746,26,M,Hypertension
+747,41,F,None
+748,52,F,Hypertension
+749,66,F,Diabetes
+750,52,M,Hypertension
+751,65,F,None
+752,53,M,Hypertension
+753,35,F,Diabetes
+754,66,M,Diabetes
+755,56,M,Diabetes
+756,49,F,None
+757,41,F,None
+758,40,M,Heart Disease
+759,79,F,None
+760,49,M,Diabetes
+761,54,M,Diabetes
+762,29,M,None
+763,66,M,Hypertension
+764,72,M,None
+765,30,F,None
+766,40,M,Diabetes
+767,42,M,Heart Disease
+768,52,F,Diabetes
+769,58,M,Heart Disease
+770,47,F,Diabetes
+771,34,F,None
+772,66,F,Diabetes
+773,79,M,Diabetes
+774,37,M,Diabetes
+775,65,M,None
+776,42,F,None
+777,39,M,None
+778,30,F,None
+779,76,M,Heart Disease
+780,36,F,Heart Disease
+781,66,M,Hypertension
+782,53,M,None
+783,29,M,Heart Disease
+784,78,F,Diabetes
+785,58,F,None
+786,36,M,Hypertension
+787,29,M,Hypertension
+788,26,F,Hypertension
+789,24,F,Diabetes
+790,45,F,Heart Disease
+791,31,M,Diabetes
+792,48,F,None
+793,69,M,Hypertension
+794,36,F,Diabetes
+795,75,M,Diabetes
+796,64,F,Heart Disease
+797,33,F,Heart Disease
+798,70,F,Hypertension
+799,22,F,Diabetes
+800,52,F,Diabetes
+801,29,M,Heart Disease
+802,42,F,Diabetes
+803,69,F,Diabetes
+804,76,F,Diabetes
+805,38,M,Heart Disease
+806,53,F,Hypertension
+807,70,M,None
+808,40,F,Hypertension
+809,33,F,None
+810,74,M,Diabetes
+811,56,F,Hypertension
+812,62,M,None
+813,70,M,Heart Disease
+814,59,F,Heart Disease
+815,75,M,Hypertension
+816,56,F,Hypertension
+817,31,F,Diabetes
+818,48,M,Hypertension
+819,75,M,Diabetes
+820,22,M,Diabetes
+821,52,M,Heart Disease
+822,40,F,Heart Disease
+823,46,F,None
+824,60,M,Heart Disease
+825,28,F,Heart Disease
+826,35,F,Hypertension
+827,64,F,Heart Disease
+828,29,F,None
+829,26,M,Hypertension
+830,27,M,None
+831,75,F,Heart Disease
+832,61,M,None
+833,34,M,Hypertension
+834,78,M,Diabetes
+835,55,F,None
+836,24,F,None
+837,63,F,Hypertension
+838,30,M,Hypertension
+839,57,F,None
+840,59,F,Heart Disease
+841,26,M,None
+842,67,F,Hypertension
+843,44,F,Diabetes
+844,75,M,Diabetes
+845,19,M,Heart Disease
+846,22,M,None
+847,46,F,Diabetes
+848,54,F,None
+849,55,F,Hypertension
+850,36,M,Diabetes
+851,25,M,Heart Disease
+852,65,F,Hypertension
+853,62,F,Heart Disease
+854,18,M,Hypertension
+855,39,M,Diabetes
+856,69,M,Heart Disease
+857,34,M,Heart Disease
+858,24,F,Hypertension
+859,42,M,Heart Disease
+860,62,F,Hypertension
+861,21,F,Hypertension
+862,53,F,Hypertension
+863,23,M,Hypertension
+864,77,M,Diabetes
+865,48,M,Hypertension
+866,36,M,None
+867,78,F,Heart Disease
+868,61,M,None
+869,71,M,Diabetes
+870,56,F,None
+871,44,M,Heart Disease
+872,27,F,None
+873,43,F,Diabetes
+874,36,F,Hypertension
+875,56,F,None
+876,79,F,Diabetes
+877,20,F,Diabetes
+878,62,F,Heart Disease
+879,30,F,Heart Disease
+880,67,M,None
+881,45,M,Hypertension
+882,79,M,Diabetes
+883,75,M,None
+884,37,F,Diabetes
+885,45,M,Diabetes
+886,25,F,Hypertension
+887,78,M,Hypertension
+888,58,M,None
+889,56,M,Hypertension
+890,18,F,Hypertension
+891,20,M,None
+892,30,F,Hypertension
+893,45,F,Heart Disease
+894,79,M,Diabetes
+895,74,M,Diabetes
+896,77,M,Diabetes
+897,66,F,Diabetes
+898,42,M,None
+899,73,F,Diabetes
+900,50,F,Diabetes
+901,55,M,Diabetes
+902,70,M,Diabetes
+903,23,F,Heart Disease
+904,75,F,Diabetes
+905,61,F,Heart Disease
+906,62,M,None
+907,49,F,Hypertension
+908,62,M,Diabetes
+909,78,F,Hypertension
+910,64,F,Hypertension
+911,38,M,None
+912,33,F,Hypertension
+913,71,M,Heart Disease
+914,38,M,Hypertension
+915,28,F,Hypertension
+916,77,M,Hypertension
+917,54,M,Diabetes
+918,53,F,Diabetes
+919,52,M,Heart Disease
+920,36,M,Heart Disease
+921,37,M,Diabetes
+922,74,F,Heart Disease
+923,35,M,Diabetes
+924,64,F,None
+925,58,F,Hypertension
+926,66,M,Hypertension
+927,31,M,Heart Disease
+928,32,M,Diabetes
+929,48,F,Diabetes
+930,18,M,Heart Disease
+931,70,M,Diabetes
+932,71,M,None
+933,71,M,Hypertension
+934,20,M,Heart Disease
+935,33,F,Heart Disease
+936,40,F,Diabetes
+937,74,M,Heart Disease
+938,28,M,None
+939,29,M,Diabetes
+940,27,M,Diabetes
+941,49,F,Diabetes
+942,33,M,Diabetes
+943,25,F,None
+944,55,F,Diabetes
+945,29,M,Heart Disease
+946,41,F,None
+947,45,F,Hypertension
+948,70,F,Hypertension
+949,25,F,Heart Disease
+950,75,M,Heart Disease
+951,45,M,None
+952,53,F,Hypertension
+953,43,M,Hypertension
+954,25,M,Hypertension
+955,75,M,Hypertension
+956,77,M,Hypertension
+957,67,M,Diabetes
+958,45,F,Heart Disease
+959,45,M,Diabetes
+960,54,M,Hypertension
+961,58,M,None
+962,53,M,None
+963,44,F,Hypertension
+964,71,F,Hypertension
+965,34,F,None
+966,26,F,Diabetes
+967,50,M,Diabetes
+968,70,F,Hypertension
+969,37,M,Diabetes
+970,30,M,None
+971,45,M,Diabetes
+972,65,M,Hypertension
+973,46,M,None
+974,30,F,Diabetes
+975,63,F,Heart Disease
+976,52,F,None
+977,78,F,None
+978,23,M,Heart Disease
+979,35,F,Heart Disease
+980,68,M,None
+981,22,F,Heart Disease
+982,64,M,Hypertension
+983,42,M,Hypertension
+984,19,F,Hypertension
+985,27,M,None
+986,73,M,Heart Disease
+987,47,F,Heart Disease
+988,67,M,Diabetes
+989,76,F,Diabetes
+990,62,F,Heart Disease
+991,22,F,Heart Disease
+992,72,M,Heart Disease
+993,73,M,None
+994,50,M,Heart Disease
+995,71,F,Diabetes
+996,18,M,None
+997,35,F,Heart Disease
+998,49,F,Diabetes
+999,64,M,None
+1000,66,F,Heart Disease
