@@ -25,10 +25,6 @@ This project showcases an interactive Power BI dashboard analyzing healthcare cl
   - Certain providers cost disproportionately compared to others
   - Healthcare spending is impacted by seasonal trends
 
-   ## Sample Visualization of Database
-
-  ![Cost by Condition](cost_by_chronic_condition_chart.png)
-
   ## Sample Visualization of Dashboard
   ![Dashboard Screenshot](HealthcareClaimsCostAnalysisDashboard.png)
 
